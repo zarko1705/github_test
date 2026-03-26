@@ -26,22 +26,11 @@ chmod +x pc_health.sh
 ./pc_health.sh
 
 
-
-
-
-
-
-
 3) Example output:
 
 CPU: 45% - OK
 Memory: 62% - OK
 Disk: 78% - WARNING (over 75%)
-
-
-
-
-
 
 
 
